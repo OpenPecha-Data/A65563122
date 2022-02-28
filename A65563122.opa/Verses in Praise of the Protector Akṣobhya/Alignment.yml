@@ -1,0 +1,28 @@
+segment_sources:
+  P28525982:
+    type: origin_type
+    relation: translation
+    language: en
+  PA0C4F688:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  6fececd3706a42a78dadc403cc216d83:
+    P28525982: db902fc24f474ff4aa89b586d2a9f68c
+    PA0C4F688: 02227faebe9a4611ad023ecf6143d6b5
+  70cf16d5363e4689a37380f0c59cdddd:
+    P28525982: 743e596d44f5418b84f4a72e50526d89
+    PA0C4F688: 34768dfc1a0843fdb97cd07f2d9c5875
+  d44674cf7de7400cb084d1f125801faa:
+    P28525982: 3db997ec66cd48c68bcd99afde9904f3
+    PA0C4F688: 27ff4b1853634c6884599a17499d8700
+  833b590be9164510b8fec1f6cc2ee53c:
+    P28525982: 9461e4d9e81b4adea4bd8fa3dfe25bea
+    PA0C4F688: 36d19cfc009b43f4bed5352a2a2039a6
+  5c2a6171ee25450a895e900026b216de:
+    P28525982: fff6d2af9475467595c3b2fadcc86a30
+    PA0C4F688: af86cfddb4ba49c495862737bcf07152
+  1ae5dea520854f53b00efbbb2254110d:
+    P28525982: 56e78b791f0946f0a06fe3293f7bc9ce
+    PA0C4F688: 2af75758c8454d6283b4ee13c1644178

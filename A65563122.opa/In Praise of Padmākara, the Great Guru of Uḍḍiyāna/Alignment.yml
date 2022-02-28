@@ -1,0 +1,19 @@
+segment_sources:
+  P28525982:
+    type: origin_type
+    relation: translation
+    language: en
+  PA0C4F688:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  1f843c77e4d649379fa4587e160e1b99:
+    P28525982: 7eea0ad6300e4ee782a32bbc586bdae6
+    PA0C4F688: 900d88303d1240e4831b12e1caecb865
+  c1393f28d17b45b58b9082db92f6401f:
+    P28525982: 48cfd67094f44706be71a8c2bf83bfa3
+    PA0C4F688: a9d0d20c165b46afbc66216f2650c29e
+  505010a4c4514d4891bdb10a59950ae0:
+    P28525982: 68d453ba534b474bb08d3b5970074d98
+    PA0C4F688: a782ee9d01164e928d19b5d420235b7b
